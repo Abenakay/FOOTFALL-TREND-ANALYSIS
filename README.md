@@ -1,4 +1,5 @@
 # MALL FOOTFALL TREND ANALYSIS
+![image](https://github.com/Abenakay/FOOTFALL-TREND-ANALYSIS/assets/121954820/356c7e9a-b87f-4179-90de-67e53252c494)
 
 ### Project Overview
 The data analysis seeks to provide insights into footfall trend at a retail center from Jan 2023 to Jun 2023. By analysing the trend on an hourly basis, the focus is to identify the hourly footfall trend,make data driven recommendations and gain a deeper understaning of foot traffic to the retail center.
@@ -25,7 +26,9 @@ EDA involved exploring the trend data to answer keys questions such as:
 
 - What is the overall footfall trend?
 - Which entry points are the most used?
-- What are th epeak foot count period?
+- What are the peak foot count period?
+  
+
 
 ### Recommendations
 Based on the analysis , i recommend:
@@ -54,3 +57,4 @@ Explanation: The mall's ability to effectively convert footfall into sales is of
 ### Limitations
 I removed  some columns because they would have affected the accuracy of my conclusions from the analysis. 
 
+          
